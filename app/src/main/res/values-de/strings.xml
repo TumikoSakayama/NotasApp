@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hinweis auf selbst</string>
+    <string name="add">add</string>
+    <string name="titulo">Titel</string>
+    <string name="descripcion">Beschreibung</string>
+    <string name="ideaTexto">Idee</string>
+    <string name="importanteTexto">Wichtig</string>
+    <string name="porHacerTexto">zu tun</string>
+    <string name="botonCancelar">Abbrechen</string>
+    <string name="botonOK">Okay</string>
+    <string name="mostrar">Hinweis anzeigen</string>
+    <string name="settings">Rahmen</string>
+    <string name="add_new_note">Eine neue Note hinzufügen</string>
+    <string name="your_note">Ihre Notiz</string>
+</resources>

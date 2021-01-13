@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="add">Agregar</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="ideaTexto">Idea</string>
+    <string name="importanteTexto">Importante</string>
+    <string name="porHacerTexto">Por Hacer</string>
+    <string name="botonCancelar">Cancelar</string>
+    <string name="botonOK">OK</string>
+    <string name="mostrar">Mostrar Nota</string>
+    <string name="settings">Configuracion</string>
+    <string name="add_new_note">Añadir una nueva nota</string>
+    <string name="your_note">Tu nota</string>
+</resources>

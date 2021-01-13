@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="add">add</string>
+    <string name="titulo">Title</string>
+    <string name="descripcion">Description</string>
+    <string name="ideaTexto">Idea</string>
+    <string name="importanteTexto">Important</string>
+    <string name="porHacerTexto">To Do</string>
+    <string name="botonCancelar">Cancel</string>
+    <string name="botonOK">OK</string>
+    <string name="mostrar">Show Note</string>
+    <string name="settings">Settings</string>
+    <string name="add_new_note">Add a new note</string>
+    <string name="your_note">Your note</string>
+</resources>
